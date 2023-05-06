@@ -1,0 +1,5 @@
+insert into t_cheliangxinxi(ID,chepaihao,jiashiyuan,zhuangtai,beizhu,addtime) values('1','005','','空闲','无','2019-2-27 19:27:43');insert into t_cheliangxinxi(ID,chepaihao,jiashiyuan,zhuangtai,beizhu,addtime) values('2','029','','空闲','没问题','2019-2-27 19:27:43');insert into t_cheliangxinxi(ID,chepaihao,jiashiyuan,zhuangtai,beizhu,addtime) values('3','003','','空闲','无','2019-2-27 19:27:43');insert into t_cheliangxinxi(ID,chepaihao,jiashiyuan,zhuangtai,beizhu,addtime) values('4','012','','空闲','ok','2019-2-27 19:27:43');insert into t_cheliangxinxi(ID,chepaihao,jiashiyuan,zhuangtai,beizhu,addtime) values('5','001','','空闲','没问题','2019-2-27 19:27:43');
+
+
+
+
